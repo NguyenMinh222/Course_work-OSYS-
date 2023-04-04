@@ -1,0 +1,11 @@
+D:\Курсовая по АВС\Tech_Info\Tech_Info\bin\Debug\Tech_Info.exe.config
+D:\Курсовая по АВС\Tech_Info\Tech_Info\bin\Debug\Tech_Info.exe
+D:\Курсовая по АВС\Tech_Info\Tech_Info\bin\Debug\Tech_Info.pdb
+D:\Курсовая по АВС\Tech_Info\Tech_Info\obj\Debug\Tech_Info.csproj.AssemblyReference.cache
+D:\Курсовая по АВС\Tech_Info\Tech_Info\obj\Debug\Tech_Info.csproj.SuggestedBindingRedirects.cache
+D:\Курсовая по АВС\Tech_Info\Tech_Info\obj\Debug\Tech_Info.Form1.resources
+D:\Курсовая по АВС\Tech_Info\Tech_Info\obj\Debug\Tech_Info.Properties.Resources.resources
+D:\Курсовая по АВС\Tech_Info\Tech_Info\obj\Debug\Tech_Info.csproj.GenerateResource.cache
+D:\Курсовая по АВС\Tech_Info\Tech_Info\obj\Debug\Tech_Info.csproj.CoreCompileInputs.cache
+D:\Курсовая по АВС\Tech_Info\Tech_Info\obj\Debug\Tech_Info.exe
+D:\Курсовая по АВС\Tech_Info\Tech_Info\obj\Debug\Tech_Info.pdb
